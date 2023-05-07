@@ -1,0 +1,16 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+shift+x",
+        "command": "-workbench.view.extensions",
+        "when": "viewContainer.workbench.view.extensions.enabled"
+    },
+    {
+        "key": "ctrl+shift+x",
+        "command": "workbench.action.closeActiveEditor"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "-workbench.action.closeActiveEditor"
+    }
+]
